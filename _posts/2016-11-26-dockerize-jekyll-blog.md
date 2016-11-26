@@ -122,6 +122,6 @@ Intel i5 2410M 2.1Ghz
 8GB RAM
 ```
 
-Generating Jekyll site for Minimal-Mistakes Theme took me around 50 seconds when running in Docker, which kind of slow. For my Ubuntu VM with 4GB memory allocated, it took around 20 seconds to regenerate.
+Generating Jekyll site for Minimal-Mistakes took me around 50 seconds when running in Docker. For my Ubuntu VM with 4GB memory allocated, it took around 20 seconds to regenerate.
 
 I'm okay with the slow regeneration as I'm seldom regenerate the browser when writting blog. I guess I need to change my laptop to speedup the generation speed. Haha
