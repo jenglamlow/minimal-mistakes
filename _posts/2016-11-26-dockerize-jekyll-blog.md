@@ -42,6 +42,8 @@ group :jekyll_plugins do
 end
 ```
 
+Note: Remove ```Gemfile.lock``` if present.
+
 ## Run Docker
 
 Thanks to the friendly community, I managed to find a Docker image, ```starefossen/github-pages``` on [Docker Hub](https://hub.docker.com/r/starefossen/github-pages/) that run well with Minimal-Mistake theme. 
@@ -113,7 +115,7 @@ Have fun editting! =)
 
 ## Performance
 
-My Machine Specification:
+My Laptop Specification:
 
 ```
 ASUS K53SV
