@@ -8,7 +8,7 @@ tags:
   - Github
 ---
 
-I've been writing blog using VirtualBox running Ubuntu. VM is quite a heavy application and my laptop is having diffulty in running it smoothly. Thus, I'm try to dockerize Jekyll blog, sot that I can modify my blog post and build using Docker.
+I've been writing blog using VirtualBox running Ubuntu. VM is quite a heavy application and my laptop is having diffulty in running it smoothly. Thus, I'm try to dockerize Jekyll blog, so that I can modify my blog post and build using Docker.
 
 My blog is using [minimal-mistake](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/) theme. It is a decent Jekyll theme which contains many rich features. The best thing is the author, Michael Rose is constantly contributing the theme to add in new features and support latest technology stack.
 
